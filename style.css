@@ -12,7 +12,7 @@ color: rgb(62, 159, 194);
 
 h1{
     font-size:30px;    /*tamanho da fonte*/
-    text align: center;    /*centralizado*/
+    text-align:center;    /*centralizado*/
     text-transform: uppercase;   /*letras maiúsculas*/
 }
 
