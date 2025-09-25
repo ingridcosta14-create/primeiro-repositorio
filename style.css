@@ -1,17 +1,22 @@
 body {
-    background-color: rgb(74, 74, 224);
-    color:aliceblue;
+    background-color: rgb(74, 74, 224); /*cor de fundo da pagina*/
+    color:aliceblue; /*cor da escrita*/
+}
+
+header{
+border: solid 2px #485685 ;
+font-size: 32px;
+padding: 10px;
+color: rgb(62, 159, 194);
 }
 
 h1{
     font-size:30px;    /*tamanho da fonte/*
-    text-align:center;    /*centralizado*/
+    text align: center;    /*centralizado*/
     text-transform: uppercase;   /*letras maiúsculas/*
 }
 
-p {
-font-size:16px;
-color: pink ;
-
-
+p{
+font-size:16px
+color:bisque ;
 }
