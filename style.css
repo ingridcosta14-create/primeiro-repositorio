@@ -1,10 +1,10 @@
 body {
-    background-color: rgb(74, 74, 224); /*cor de fundo da pagina*/
+    background-color: rgb(179, 8, 8); /*cor de fundo da pagina*/
     color:rgb(56, 66, 74); /*cor da escrita*/
 }
 
 header{
-border: solid 2px #485685 ;
+border: solid 2px #191a1f ;
 font-size: 32px;
 padding: 10px;
 color: rgb(62, 159, 194);
