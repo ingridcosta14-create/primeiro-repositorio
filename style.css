@@ -9,6 +9,18 @@ font-size: 32px;
 padding: 10px;
 color: rgb(5, 6, 7);
 }
+section{
+    background-color: #b30808;/*cor escolhida*/
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.chamada-texto{
+    margin-right: 5%;
+}
 
 h1{
     font-size:30px;    /*tamanho da fonte*/
