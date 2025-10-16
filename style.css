@@ -2,6 +2,8 @@ body {
     background-color: rgb(179, 8, 8); /*cor de fundo da pagina*/
     color:rgb(3, 3, 3); /*cor da escrita*/
     font-family:"Bitcount Prop Single Ink";
+    margin: 0px;
+    margin-bottom: 100px;
 }
 
 header{
@@ -10,7 +12,7 @@ font-size: 32px;
 padding: 10px;
 color: rgb(5, 6, 7);
 }
-section{
+.chamada{
     background-color: #b30808;/*cor escolhida*/
     padding-bottom: 80px;
     padding-top: 80px;
@@ -32,4 +34,30 @@ h1{
 p{
 font-size:16px;
 color:rgb(18, 18, 238) ;
+}
+
+.categoria{
+    padding: left 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.categoria-videos{
+    display: flex;
+    overflow: auto;
+    gap: 10px;
+}
+
+.categoria-videos img{
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-videos img:hover{
+    opacity: 1.0;
+    border: 1px solid #501313;
+}
+
+.categoria h2{
+    color: #d76868;
 }
